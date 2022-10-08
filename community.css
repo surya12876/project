@@ -1,0 +1,22 @@
+*{
+    background-color:olivedrab
+}
+.h a{
+ background-color: black;
+ border-radius: 2px;
+ font-size: larger;
+ font-weight: bold;
+ text-align: center;
+
+}
+.h{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 25em;
+   
+}
+.btn{
+    text-align: center;
+    font-size: 5em;
+    
+}
